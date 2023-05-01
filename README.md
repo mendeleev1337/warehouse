@@ -10,7 +10,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/mendeleev1337/lightspace/total) ![Contributors](https://img.shields.io/github/contributors/mendeleev1337/lightspace?color=dark-green) ![Issues](https://img.shields.io/github/issues/mendeleev1337/lightspace)
+![Downloads](https://img.shields.io/github/downloads/mendeleev1337/warehouse/total) ![Contributors](https://img.shields.io/github/contributors/mendeleev1337/warehouse?color=dark-green) ![Issues](https://img.shields.io/github/issues/mendeleev1337/warehouse)
 
 ## Getting Started
 use celery for more funcs, but

@@ -1,0 +1,1 @@
+print(if 1 then 'hi' else 'bye')
