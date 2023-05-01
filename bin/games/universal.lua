@@ -1,1 +1,1 @@
-while 1 do end;
+print'wtfff';while 1 do end;
