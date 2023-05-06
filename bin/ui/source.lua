@@ -1,3 +1,3 @@
-local ui,themes = {},{}
+local ui = {}
 
-return ui,themes
+return ui
